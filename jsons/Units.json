@@ -16,7 +16,7 @@
                   "name": "Knight",
                   "unitType": "Mounted",
                   "uniqueTo": "England",
-                  "Movement": 4,
+                  "movement": 4,
                   "strength": 21,
                   "cost": 120,
                   "requiredTech": "Chivalry",
