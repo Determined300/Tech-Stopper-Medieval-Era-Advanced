@@ -1,6 +1,6 @@
 [
          {
-                  		"columnNumber": 0,
+                "columnNumber": 0,
 		"era": "Ancient era",
 		"techCost": 20,
 		"buildingCost": 40,
@@ -273,7 +273,7 @@
 		"wonderCost": 0,
 		"techs": [
 			{
-				"name": "No further"
+				"name": "No further",
 				"row": 5,
 				"uniques": ["Only available <after discovering [Astronomy]>"],
 				"prerequisites": ["Compass","Education","Banking","Chivalry","Machinery","Physics","Steel"],
