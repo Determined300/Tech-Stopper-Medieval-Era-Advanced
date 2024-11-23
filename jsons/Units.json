@@ -2,4 +2,14 @@
          {
                  "name": "Galleass",
                  "unitType": "Ranged water",
-                 "movement": 5,
+                 "movement": 4,
+                 "strength": 16,
+                 "rangedStrength": 17,
+                 "cost": 100,
+                 "requiredTech": "Compass",
+                 "uniques": ["Can enter ocean tiles"],
+                 "upgradesTo": "Frigate"
+                 "obsoleteTech": "Sailing",
+                 "attackSound": "arrow",
+         }
+]
