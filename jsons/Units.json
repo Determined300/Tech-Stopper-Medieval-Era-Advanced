@@ -1,7 +1,7 @@
 [
          {
                  "name": "Galleass",
-                 "unitType": "Ranged water",
+                 "unitType": "Ranged Water",
                  "movement": 4,
                  "strength": 16,
                  "rangedStrength": 17,
