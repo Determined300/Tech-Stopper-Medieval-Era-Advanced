@@ -11,5 +11,10 @@
                  "upgradesTo": "Frigate"
                  "obsoleteTech": "Navigation",
                  "attackSound": "arrow",
-         }
+         },
+         {
+                  "name": "Heavy Knight",
+                  "unitType": "Mounted",
+                  "uniqueTo": "England",
+                  "Movement": 4
 ]
