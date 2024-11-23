@@ -13,7 +13,7 @@
                  "attackSound": "arrow",
          },
          {
-                  "name": "Heavy Knight",
+                  "name": "Knight",
                   "unitType": "Mounted",
                   "uniqueTo": "England",
                   "Movement": 4,
