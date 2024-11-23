@@ -155,12 +155,6 @@
 				"quote": "'What is drama but life with the dull bits cut out.' - Alfred Hitchcock"
 			},
 			{
-				"name": "Banking",
-				"row": 4,
-				"prerequisites": ["Writing"],
-				"quote": "'Advanced Banking' - Classical"
-			},
-			{
 				"name": "Currency",
 				"row": 7,
 				"prerequisites": ["Mathematics"],
@@ -182,7 +176,7 @@
 		]
 	},
 	{
-		"columnNumber": 6,
+		"columnNumber": 5,
 		"era": "Medieval era",
 		"techCost": 275,
 		"buildingCost": 120,
@@ -217,7 +211,7 @@
 		]
 	},
 	{
-		"columnNumber": 7,
+		"columnNumber": 6,
 		"era": "Medieval era",
 		"techCost": 485,
 		"buildingCost": 160,
@@ -236,6 +230,12 @@
 				"prerequisites": ["Theology","Civil Service"],
 				"uniques": ["Enables conversion of city production to [Science]","Enables Research agreements"],
 				"quote": "'Education is the best provision for old age.' - Aristotle"
+			},
+			{
+				"name": "Banking",
+				"row": 4,
+				"prerequisites": ["Writing"],
+				"quote": "'Advanced Banking' - Medieval"
 			},
 			{
 				"name": "Chivalry",
@@ -266,7 +266,23 @@
 		]
 	},
 	{
-		"columnNumber": 8,
+		"columnNumber": 7,
+		"era": "Medieval era",
+		"techCost": 0,
+		"buildingCost":0,
+		"wonderCost": 0,
+		"techs": [
+			{
+				"name": "No further"
+				"row": 5,
+				"uniques": ["Only available <after discovering [Astronomy]>"],
+				"prerequisites": ["Compass","Education","Banking","Chivalry","Machinery","Physics","Steel"],
+				"quotes": "No"
+			}
+		]
+	},
+	{
+	        "columnNumber": 8,
 		"era": "Renaissance era",
 		"techCost": 780,
 		"buildingCost": 200,
