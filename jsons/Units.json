@@ -13,8 +13,16 @@
                  "attackSound": "arrow",
          },
          {
-                  "name": "Heavy Knight",
+                  "name": "Knight",
                   "unitType": "Mounted",
                   "uniqueTo": "England",
-                  "Movement": 4
+                  "Movement": 4,
+                  "strength": 21,
+                  "cost":""
+                  "requiredTech": "Chivalry",
+                  "uniques": ["Defensive terrain bonus","[-33 Strength]% <vs [cities]>"],
+                  "upgradesTo": "Cavalry",
+                  "obsoleteTech": ""
+                  "attackSound": "horse",
+         }
 ]
