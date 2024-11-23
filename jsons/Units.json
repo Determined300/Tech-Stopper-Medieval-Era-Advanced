@@ -18,11 +18,12 @@
                   "uniqueTo": "England",
                   "Movement": 4,
                   "strength": 21,
-                  "cost":""
+                  "cost": 120,
                   "requiredTech": "Chivalry",
-                  "uniques": ["Defensive terrain bonus","[-33 Strength]% <vs [cities]>"],
+                  "promotions": "Charge",
+                  "uniques": ["Can move after attacking","Defensive terrain bonus","[-33 Strength]% <vs [cities] when attacking>"],
                   "upgradesTo": "Cavalry",
-                  "obsoleteTech": ""
+                  "obsoleteTech": "Military Science",
                   "attackSound": "horse",
          }
 ]
