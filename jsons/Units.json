@@ -21,8 +21,9 @@
                   "cost": 120,
                   "requiredTech": "Chivalry",
                   "promotions": ["Charge"],
-                  "uniques": ["Can move after attacking","Defensive terrain bonus","[-33 Strength]% <vs [cities] when attacking>"],
+                  "uniques": ["Can move after attacking","Defensive terrain bonus","[-33]% Strength <vs cities when attacking>"],
                   "upgradesTo": "Cavalry",
+                  "requiredResource": "Horses"
                   "obsoleteTech": "Military Science",
                   "attackSound": "horse",
          }
