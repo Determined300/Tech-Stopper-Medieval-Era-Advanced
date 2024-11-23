@@ -9,7 +9,7 @@
                  "requiredTech": "Compass",
                  "uniques": ["Can enter ocean tiles"],
                  "upgradesTo": "Frigate"
-                 "obsoleteTech": "Astronomy",
+                 "obsoleteTech": "Navigation",
                  "attackSound": "arrow",
          }
 ]
