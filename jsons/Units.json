@@ -1,3 +1,5 @@
 [
          {
                  "name": "Galleass",
+                 "unitType": "Ranged water",
+                 "movement": 5,
