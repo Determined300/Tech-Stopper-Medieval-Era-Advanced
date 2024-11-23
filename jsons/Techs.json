@@ -292,25 +292,25 @@
 				"name": "Astronomy",
 				"row": 2,
 				"uniques": ["[+1] Movement <for [Embarked] units>","Enables [Embarked] units to enter ocean tiles"],
-				"prerequisites": ["Compass","Education"],
+				"prerequisites": ["No further"],
 				"quote": "'Joyfully to the breeze royal Odysseus spread his sail, and with his rudder skillfully he steered.' - Homer"
 			},
 			{
 				"name": "Acoustics",
 				"row": 4,
-				"prerequisites": ["Education"],
+				"prerequisites": ["No further"],
 				"quote": "'Their rising all at once was as the sound of thunder heard remote' - Milton"
 			},
 			{
 				"name": "Printing Press",
 				"row": 8,
-				"prerequisites": ["Machinery","Physics","Chivalry"],
+				"prerequisites": ["No further"],
 				"quote": "'It is a newspaper's duty to print the news and raise hell.' - The Chicago Times"
 			},
 			{
 				"name": "Gunpowder",
 				"row": 10,
-				"prerequisites": ["Physics","Steel"],
+				"prerequisites": ["No further"],
 				"quote": "'The day when two army corps can annihilate each other in one second, all civilized nations, it is to be hoped, will recoil from war and discharge their troops.' - Alfred Nobel"
 			}
 		]
